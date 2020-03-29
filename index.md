@@ -16,9 +16,11 @@ I am currently working in Tata Consultancy Services, Java Developer role as part
 
 ## Specialized Training
 * Udemy Machine Learning A-Z
-* M001: MongoDB Basics # 7371bf57-adbf-4973-9e9b-49217df7 (verify at <http://university.mongodb.com/course_completion/7371bf57-adbf-4973-9e9b-49217df7>)
+* M001: MongoDB Basics # 7371bf57-adbf-4973-9e9b-49217df7 
+  (verify at <http://university.mongodb.com/course_completion/7371bf57-adbf-4973-9e9b-49217df7>)
 
 ## Other Qualifications
 * Develop Android Based E-Commerce Application
 * Familiar with Jave based Application
-* Google Kickstart 2019 # 0000000000050ff1 (verify at <https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000050ff1>)
+* Google Kickstart 2019 # 0000000000050ff1 
+  (verify at <https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000050ff1>)
