@@ -76,10 +76,10 @@ ul.content_list li {
 #header_details_container {
   float: right;
   padding-right: 30px;
+  margin: 0 0 0px 20px;
 }
 #header_details_container li {
   font-size: 14px;
-  margin: 0 0 0px 50px;
 }
 #page {
   display: table-cell;
