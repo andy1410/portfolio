@@ -28,8 +28,8 @@ ul.content_list {
 }
 ul.content_list li {
   font-size: 12px;
+  padding-bottom: 12px;
   padding-left: 15px;
-  padding-right: 12px;
 }
 #main {
   width: 100%;
