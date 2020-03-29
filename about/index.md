@@ -12,15 +12,13 @@ LinkedIn: <https://www.linkedin.com/in/abhishek-anand-09431a106/>
 I am currently working in Tata Consultancy Services, Java Developer role as part of a highly collaborative and innovative team. Keeping up with the latest technologies is a very high priority. Furthering and broadening my knowledge of Machne Learning and the various programming languages that make it useful.
 
 ## Capabilities
-* Proficient in Python, ANSI C, and Java for both web-based front-ends as well as server-side automation.
+* Proficient in Python, ANSI C, and Java for both web-based and front-end.
 * Understanding of object-oriented programming models.
 * I have an innovative mind and am capable of inventing ways around problems and road blocks.
 
 ## Relevant Experience
 ### Tata Consultancy Services (June 2019 - Present)
-* Java based Business service Development
-* Continuous integration jenkins(Auto Deployment)
-* Service-oriented architecture
+* Java Developer
 
 ## Specialized Training
 * Udemy Machine Learning A-Z
