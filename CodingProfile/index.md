@@ -21,4 +21,5 @@ Below are some Practise and Participation from past.
 
 ### Geeks For Geeks
 
-([Visit](https://auth.geeksforgeeks.org/user/andy1410/practice/))
+([Visit](https://auth.geeksforgeeks.org/user/andy1410/practice))
+
