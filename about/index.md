@@ -9,7 +9,7 @@ GitHub: <https://www.github.com/andy1410>
 LinkedIn: <https://www.linkedin.com/in/abhishek-anand-09431a106/>
 
 ## Objective
-I am currently working in Tata Consultancy Services, Java Developer role as part of a highly collaborative and innovative team. Keeping up with the latest technologies is a very high priority. Furthering and broadening my knowledge of Machne Learning and the various programming languages that make it useful.
+I am currently working in MNC, Java Developer role as part of a highly collaborative and innovative team. Keeping up with the latest technologies is a very high priority. Furthering and broadening my knowledge of Machne Learning and the various programming languages that make it useful.
 
 ## Capabilities
 * Proficient in Python, ANSI C, and Java for both web-based and front-end.
