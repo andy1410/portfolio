@@ -17,7 +17,7 @@ I am currently working in MNC, Java Developer role as part of a highly collabora
 * I have an innovative mind and am capable of inventing ways around problems and road blocks.
 
 ## Relevant Experience
-### Tata Consultancy Services (June 2019 - Present)
+### MNC Software (June 2019 - Present)
 * Java Developer
 
 ## Specialized Training
